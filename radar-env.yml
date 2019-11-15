@@ -1,0 +1,6 @@
+name: radar-env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\steve\Anaconda3\envs\radar-env
+
